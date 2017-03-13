@@ -27,6 +27,9 @@ Features:
 
 ![1](https://github.com/ios-Stephens/Inkpad/blob/develop/Screenshots/Hue.png)![2](https://github.com/ios-Stephens/Inkpad/blob/develop/Screenshots/Layers.png)![3](https://github.com/ios-Stephens/Inkpad/blob/develop/Screenshots/Swatches.png)
 
+Support
+-----------------
+
 If you have any problems，you can contact us.<br>
 E-mail:niu12346@outlook.com<br>
 
